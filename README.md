@@ -2,11 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website information
 
-
-asdfghjkll;yrftewwreqaxvbcbnvnmb gdfedtrsethgfghv
-
-
-
-dsfxcvxbvncbbgdftyvhgvjyhyrtyhd
+This is now my first Website
